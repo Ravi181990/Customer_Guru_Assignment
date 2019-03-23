@@ -11,7 +11,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <title>99rstreet</title>
-        <!-- Bootstrap core CSS -->
+        <!-- Bootstrap core CSS test -->
     <!--   <script type='text/javascript' src='JS/validation.js'></script>
 <link rel="stylesheet" href="CSS/style.css" type="text/css">
          <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
